@@ -1,5 +1,6 @@
 # Personal Portfolio
 
+https://roadmap.sh/projects/portfolio-website
 ![Personal Portfolio](./screenshot.png)
 
 ## Goal
@@ -19,5 +20,3 @@ Bonus:
 - [] Utilize Google Fonts
 - [ ] Link to GitHub pages
 - [] Add dark mode support
-
-https://roadmap.sh/projects/portfolio-website
